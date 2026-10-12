@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4" name="Changes" comment="Homework 2">
-      <change afterPath="$PROJECT_DIR$/Homework 3/homework3.ipynb" afterDir="false" />
+    <list default="true" id="dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4" name="Changes" comment="Homework 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework 3/homework3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework 3/homework3.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +29,12 @@
     &quot;assignee&quot;: &quot;B1adeRaven&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/B1adeRaven/MLZoomcamp2026.git",
-    "accountId": "ef5449ce-3d27-48e6-86b7-172e1546b8dc"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/B1adeRaven/MLZoomcamp2026.git&quot;,
+    &quot;accountId&quot;: &quot;ef5449ce-3d27-48e6-86b7-172e1546b8dc&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
   &quot;fromUser&quot;: false
@@ -93,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791233755591</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework 3">
+      <option name="closed" value="true" />
+      <created>1791553231356</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791553231356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework 1" />
     <MESSAGE value="Homework 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 2" />
+    <MESSAGE value="Homework 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3" />
   </component>
 </project>
