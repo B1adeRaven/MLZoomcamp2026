@@ -1,0 +1,111 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4\" name=\"Changes\" comment=\"Homework 3\">\n      <change afterPath=\"$PROJECT_DIR$/Homework4/homework4.ipynb\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Jupyter Notebook\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;B1adeRaven&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">{\n  &quot;selectedUrlAndAccountId&quot;: {\n    &quot;url&quot;: &quot;https://github.com/B1adeRaven/MLZoomcamp2026.git&quot;,\n    &quot;accountId&quot;: &quot;ef5449ce-3d27-48e6-86b7-172e1546b8dc&quot;\n  }\n}</component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6,\n  &quot;fromUser&quot;: false\n}</component>\n  <component name=\"ProjectId\" id=\"3JxNuuX6MzzCkEsSYgG7t1vNFu9\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,\n    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;,\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Виталий/PycharmProjects/MLZoomcamp2026&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,\n    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;\n  }\n}</component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4\" name=\"Changes\" comment=\"\" />\n      <created>1790598985695</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1790598985695</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Homework 1\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1790605413679</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1790605413679</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Homework 2\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1791233755591</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1791233755591</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Homework 3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1791553231356</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1791553231356</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Homework 3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1791841603991</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1791841603991</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"Homework 3\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1791842222670</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1791842222670</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"6\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Homework 1\" />\n    <MESSAGE value=\"Homework 2\" />\n    <MESSAGE value=\"Homework 3\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Homework 3\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"jupyter-line\">\n          <url>file://$PROJECT_DIR$/Homework 3/homework3.ipynb</url>\n          <line>1</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 30ba9ed608a1520427ef1e30767efee0be5e4c68)
++++ b/.idea/workspace.xml	(date 1793018067452)
+@@ -4,8 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4" name="Changes" comment="Homework 3">
+-      <change afterPath="$PROJECT_DIR$/Homework4/homework4.ipynb" afterDir="false" />
++    <list default="true" id="dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4" name="Changes" comment="Homework 2">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -31,8 +30,8 @@
+ }</component>
+   <component name="GithubPullRequestsUISettings">{
+   &quot;selectedUrlAndAccountId&quot;: {
+-    &quot;url&quot;: &quot;https://github.com/B1adeRaven/MLZoomcamp2026.git&quot;,
+-    &quot;accountId&quot;: &quot;ef5449ce-3d27-48e6-86b7-172e1546b8dc&quot;
++    &quot;url&quot;: &quot;https://github.com/B1adeRaven/MLZoomcamp2026&quot;,
++    &quot;accountId&quot;: &quot;6997468e-a267-41bf-991d-15135e2c0b04&quot;
+   }
+ }</component>
+   <component name="ProjectColorInfo">{
+@@ -52,7 +51,6 @@
+     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Виталий/PycharmProjects/MLZoomcamp2026&quot;,
+     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+@@ -65,7 +63,7 @@
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
++        <option value="bundled-python-sdk-eff1e8def5f5-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10315.174" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -85,39 +83,7 @@
+       <option name="project" value="LOCAL" />
+       <updated>1790605413679</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="Homework 2">
+-      <option name="closed" value="true" />
+-      <created>1791233755591</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1791233755591</updated>
+-    </task>
+-    <task id="LOCAL-00003" summary="Homework 3">
+-      <option name="closed" value="true" />
+-      <created>1791553231356</created>
+-      <option name="number" value="00003" />
+-      <option name="presentableId" value="LOCAL-00003" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1791553231356</updated>
+-    </task>
+-    <task id="LOCAL-00004" summary="Homework 3">
+-      <option name="closed" value="true" />
+-      <created>1791841603991</created>
+-      <option name="number" value="00004" />
+-      <option name="presentableId" value="LOCAL-00004" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1791841603991</updated>
+-    </task>
+-    <task id="LOCAL-00005" summary="Homework 3">
+-      <option name="closed" value="true" />
+-      <created>1791842222670</created>
+-      <option name="number" value="00005" />
+-      <option name="presentableId" value="LOCAL-00005" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1791842222670</updated>
+-    </task>
+-    <option name="localTasksCounter" value="6" />
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -136,19 +102,6 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Homework 1" />
+-    <MESSAGE value="Homework 2" />
+-    <MESSAGE value="Homework 3" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Homework 3" />
+-  </component>
+-  <component name="XDebuggerManager">
+-    <breakpoint-manager>
+-      <breakpoints>
+-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+-          <url>file://$PROJECT_DIR$/Homework 3/homework3.ipynb</url>
+-          <line>1</line>
+-          <option name="timeStamp" value="1" />
+-        </line-breakpoint>
+-      </breakpoints>
+-    </breakpoint-manager>
++    <option name="LAST_COMMIT_MESSAGE" value="Homework 1" />
+   </component>
+ </project>
+\ No newline at end of file
