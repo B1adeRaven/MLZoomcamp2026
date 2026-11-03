@@ -4,23 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4" name="Changes" comment="Homework 4">
-      <change afterPath="$PROJECT_DIR$/Homework5/.python-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/feature_defaults.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/homework.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/homework.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/model_metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/pipeline.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/predict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/q6_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/smoke_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/train.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework5/uv.lock" afterDir="false" />
+    <list default="true" id="dc8e7e48-5fb2-4243-8444-a55bf1c6c6a4" name="Changes" comment="Homework 3">
+      <change afterPath="$PROJECT_DIR$/.idea/mlzoomcamp-2026-deployment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework5/question3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework5/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework5/predict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -64,9 +54,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Виталий/PycharmProjects/MLZoomcamp2026/Homework5",
+    "last_opened_file_path": "C:/Users/Виталий/PycharmProjects/MLZoomcamp2026",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -131,15 +122,7 @@
       <option name="project" value="LOCAL" />
       <updated>1791842222670</updated>
     </task>
-    <task id="LOCAL-00006" summary="Homework 4">
-      <option name="closed" value="true" />
-      <created>1792444994466</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1792444994466</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,8 +143,7 @@
     <MESSAGE value="Homework 1" />
     <MESSAGE value="Homework 2" />
     <MESSAGE value="Homework 3" />
-    <MESSAGE value="Homework 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
